@@ -1,2 +1,2 @@
 # DeepLearning
-Demo for CpSc8810 
+Demo for CpSc8430 
